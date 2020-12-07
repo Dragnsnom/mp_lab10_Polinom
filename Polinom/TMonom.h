@@ -13,6 +13,7 @@ public:
   TMonomData(int t);
   TMonomData(double* _data = 0, int _dim = 0, double _K = 0);
   TMonomData(TMonomData& _v);
+  ~TMonomData();
 };
 
 class TMonom : public TListElem<TMonomData>
@@ -23,6 +24,7 @@ public:
   TMonom(TMonomData _data);
   TMonom(double* _data = 0, int _dim = 0, double _K = 0);
   TMonom(TMonom& _v);
+
 
   bool operator == (const TMonom& _v);
   bool operator != (const TMonom& _v);
