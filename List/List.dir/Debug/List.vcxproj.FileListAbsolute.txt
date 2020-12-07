@@ -1,0 +1,2 @@
+C:\Users\Dragonsnom\Desktop\github\10-laba\build\List\Debug\List.pdb
+C:\Users\Dragonsnom\Desktop\github\10-laba\build\List\List.dir\Debug\List.pdb

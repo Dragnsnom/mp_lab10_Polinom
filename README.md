@@ -1,1 +1,1 @@
-# mp_lab10_Arithmetic
+[![Build Status](https://travis-ci.org/Draonsnom/mp_lab10_Arithmetic.svg?branch=main)](https://travis-ci.org/Draonsnom/mp_lab10_Arithmetic)
