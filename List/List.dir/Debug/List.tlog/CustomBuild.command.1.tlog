@@ -1,0 +1,10 @@
+^C:\USERS\DRAGONSNOM\DESKTOP\GITHUB\10-LABA\MP_LAB10_ARITHMETIC\LIST\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Dragonsnom/Desktop/github/10-laba/mp_lab10_Arithmetic -BC:/Users/Dragonsnom/Desktop/github/10-laba/build --check-stamp-file C:/Users/Dragonsnom/Desktop/github/10-laba/build/List/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

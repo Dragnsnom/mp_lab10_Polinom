@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Dragonsnom\Desktop\github\10-laba\mp_lab10_Arithmetic\List\TList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Dragonsnom\Desktop\github\10-laba\mp_lab10_Arithmetic\List\TList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Dragonsnom\Desktop\github\10-laba\mp_lab10_Arithmetic\List\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{3AE29EE5-FCFE-3C1C-B85A-48AC144E2454}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{98DED161-DF4E-3919-9822-AA21FC9C68A3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
